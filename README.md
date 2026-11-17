@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, we're Wavespace 👋
 
-<!--
-**WavespaceAgency/WavespaceAgency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A global UI/UX design & development agency helping startups and enterprises ship better digital products.
 
-Here are some ideas to get you started:
+### 🧩 Free & open-source templates
+| Template | Stack | Links |
+|---|---|---|
+| **Vaxnori AI** – SaaS landing template | Next.js · Tailwind | Demo (coming soon) · Repo (coming soon) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What we build with
+Next.js · React · Tailwind CSS · Webflow · Framer · Figma
+
+### 🌐 Find us
+[Website](https://www.wavespace.agency) · [LinkedIn](https://www.linkedin.com/company/wavespace-agency) · [X](https://x.com/wavespaceagency) · [Dribbble](https://dribbble.com/wavespaceagency) · [Behance](https://www.behance.net/wavespaceagency/)
